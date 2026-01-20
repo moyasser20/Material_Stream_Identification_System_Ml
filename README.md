@@ -92,3 +92,7 @@ The system uses:
 - The confidence threshold can be adjusted to balance between accuracy and rejection rate
 - Lower confidence thresholds will classify more items as "Unknown"
 
+
+Hagging face (for model): https://huggingface.co/moyasser20/trash-classifier-models/tree/main
+
+
